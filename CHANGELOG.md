@@ -1,5 +1,12 @@
 # Changelog
 
+## Version v4.5.0 (2025-01-15)
+
+### Features
+
+- add support for departments PLT-1074 (a6407fa4)
+- add support for departments PLT-1074 (ced5e2a3)
+
 ## Version v4.4.0 (2024-07-01)
 
 ### Features

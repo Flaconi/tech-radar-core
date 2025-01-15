@@ -1,6 +1,6 @@
 {
   "name": "@flaconi/tech-radar-core",
-  "version": "4.4.0.0",
+  "version": "4.5.0",
   "bin": {
     "techradar": "./bin/techradar.js"
   },
